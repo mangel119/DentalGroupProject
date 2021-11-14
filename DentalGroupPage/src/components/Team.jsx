@@ -5,8 +5,7 @@ export const Team = (props) => {
         <div className='col-md-8 col-md-offset-2 section-title'>
           <h2>Conoce Al Equipo</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Profesionales experimentados y capacitados para el cuidado de tu sonrisa.
           </p>
         </div>
         <div id='row'>

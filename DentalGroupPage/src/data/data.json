@@ -4,151 +4,152 @@
     "paragraph": "Bienvenidos a tu centro odontológico JB Dental Group, abrimos para ustedes con todos los protocolos de bioseguridad, visitanos para tener el gusto de atenderlos, tendremos grandes descuentos en todos nuestros servicios."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph1": "Satisfacer en forma integral las necesidades del cuidado de la salud oral de nuestros pacientes, mejorando continuamente la calidad de nuestros servicios y la experiencia en nuestro centro odontológico.",
+    "paragraph2": "JB Dental Group es una organización que pretende ser un referente para seguir dentro del sector de la odontología; por la calidad de su trabajo y por el trato humano, por eso nos enfocamos en el trato preferencial a nuestros pacientes, para solucionar de la forma más satisfactoria los problemas de salud dental.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Mejoramos tu sonrisa.",
+      "Tratamientos para toda la familia.",
+      "Trato cercano y empático.",
+      "Equipo multidisciplinario."
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Resultados garantizados.",
+      "Especialistas en prevención.",
+      "Evitamos problemas bucodentales.",
+      "Múltiples promociones."
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Visualizar Foto",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Visualizar Foto",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Visualizar Foto",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Visualizar Foto",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Visualizar Foto",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Visualizar Foto",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Visualizar Foto",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Visualizar Foto",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Visualizar Foto",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-plus-circle",
+      "name": "Ortodoncia",
+      "text": "Se encarga de todo el estudio y tratamiento de las anomalías de forma, posición, relación y función de las estructuras dentomaxilofaciales."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-tint",
+      "name": "Endodoncia",
+      "text": "Consiste en la extirpación de la pulpa dental y el posterior relleno y sellado de la cavidad pulpar con un material inerte."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-search-plus",
+      "name": "Periodoncia",
+      "text": "Es la rama de la odontología que trata la enfermedad de las encías y del hueso que sostiene los dientes."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-check-square-o",
+      "name": "Odontología General",
+      "text": "(Operatoria o Restauradora) es la encargada de solucionar los problemas primarios que tienen que ver con la boca, dientes y otras estructuras relacionadas."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-heartbeat",
+      "name": "Rehabilitación Oral",
+      "text": "La rehabilitación oral se compone de un tratamiento integral a partir de prótesis fijas, removibles, oclusión e implantes dentales, devolviendo su función estetica y armonica."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cutlery",
+      "name": "Blanqueamiento Dental",
+      "text": "Es un tratamiento dental estético que logra reducir varios tonos el color original de las piezas dentales, dejando los dientes más blancos y brillantes."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Recomiendo JB Dental Group por su excelente servicio, calidad humana con la que tratan a los pacientes y el profesionalismo con el que trabajan.\"",
+      "name": "Jackson Bolaños"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Soy cliente, me gusta mucho la atención del equipo, muy lindos, muy formales, el trabajo es súper garantizado.\"",
+      "name": "Carlos Pérez"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Tuve una gran experiencia en el proceso de blanqueamiento dental, excelente resultado para este centro odontologico, estoy muy contento, lo recomiendo.\"",
+      "name": "Camilo Gómez"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"¡Excelente atención! Muy profesionales, yo siempre iba a mis citas en la EPS, pero no volví; estoy muy contenta con el tratamiento de ortodoncia que me está haciendo JB Dental Group.\"",
+      "name": "Sandra Payan"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\" Me gustó mucho la atención que me dieron, son muy amables y su trabajo es muy pulido, me fui muy contenta con mi resultado, llevaba años buscando un lugar así, lo recomiendo y muy bonitas las instalaciones.\"",
+      "name": "José Hernández"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Excelente consultorio con todas sus medidas de bioseguridad. La antencion es espectacular, sus elementos y herramientas de las mejores marcas.\"",
+      "name": "Valeria López"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Jennifer Bolaños",
+      "job": "Odontóloga"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "John Freddy Barrera",
+      "job": "Especialista en Endodoncia"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Sara Rojas",
+      "job": "Ortodoncista"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Linda Cardona",
+      "job": "Auxiliar en Salud Oral"
     }
   ],
   "Contact": {
@@ -156,29 +157,29 @@
     "phone": "+57 3187505608",
     "email": "jbdentalgroup@gmail.com",
     "facebook": "https://www.facebook.com/dentalgroup2021/",
-    "twitter": "https://instagram.com/jb_dentalgroup?utm_medium=copy_link",
-    "youtube": "youtube.com"
+    "instagram": "https://instagram.com/jb_dentalgroup?utm_medium=copy_link",
+    "whatsapp": "https://wa.me/573187505608?text=Hola%20solícito%20información"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-dollar",
+      "title": "Campaña Higiene Oral",
+      "text": "Se compone de: 2 personas por $120.000 Únicamente los días Sábado 18 / Domingo 19 de Diciembre"
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "title": "Super Promoción 1A",
+      "text": "Se compone de: 2 Prótesis Dentales Removibles por $700.000 Únicamente el mes de Diciembre"
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Super Promoción 2B",
+      "text": "Se compone de: Blanqueamiento Dental + Higiene por $220.000 Únicamente por los meses de Noviembre / Diciembre"
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-money",
+      "title": "Super Promoción 3C",
+      "text": "Se compone de: Retenedores en Acetato por solo $180.000 Únicamente por los meses de Noviembre / Diciembre"
     }
   ]
 }
