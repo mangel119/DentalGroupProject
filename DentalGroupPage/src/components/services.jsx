@@ -5,8 +5,7 @@ export const Services = (props) => {
         <div className='section-title'>
           <h2>Nuestros Servicios</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            JB Dental Group ofrece múltiples servicios que se adaptan a cualquiera de tus necesidades.
           </p>
         </div>
         <div className='row'>
