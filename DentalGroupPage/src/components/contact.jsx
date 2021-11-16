@@ -45,7 +45,7 @@ export const Contact = (props) => {
                   más pronto posible  .
                 </p>
               </div>
-              <form name='sentMessage' validate onSubmit={handleSubmit}>
+              <form action='https://formsubmit.co/jujomebo18@gmail.com' name='sentMessage' method='POST'>
                 <div className='row'>
                   <div className='col-md-6'>
                     <div className='form-group'>
